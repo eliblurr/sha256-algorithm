@@ -347,5 +347,9 @@ The final hash value is just the _concatenation_ of these eight 32-bit values to
 <small><em><a id="security">1</a>: Cryptography For Developers, Simon Johnson (pg. 218)</em></small>
 
 
-
+see step by step guide here:
+https://www.youtube.com/watch?v=f9EbD6iY9zI&list=PLQk2yIFFx_4G1g0YSk0nt2_ORslCY2SfG&index=7
+[@author](https://www.youtube.com/c/learnmeabitcoin)
+[@more links](https://www.youtube.com/channel/UCXC8SY_kBNYbCNkQ2zLZYFw)
+[@more links](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw)
 
