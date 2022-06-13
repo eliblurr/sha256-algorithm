@@ -350,6 +350,7 @@ The final hash value is just the _concatenation_ of these eight 32-bit values to
 see step by step guide here:
 https://www.youtube.com/watch?v=f9EbD6iY9zI&list=PLQk2yIFFx_4G1g0YSk0nt2_ORslCY2SfG&index=7
 [@author](https://www.youtube.com/c/learnmeabitcoin)
-[@more links](https://www.youtube.com/channel/UCXC8SY_kBNYbCNkQ2zLZYFw)
-[@more links](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw)
+[@more links[Bitcoin Sheffield]](https://www.youtube.com/channel/UCXC8SY_kBNYbCNkQ2zLZYFw)
+[@more links[CRI]](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw)
+[@merkle trees data validation](https://docs.symbol.dev/concepts/data-validation.html)
 
